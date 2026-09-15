@@ -1,0 +1,17 @@
+# Install with: uvx pre-commit install
+# Keep the Ruff pin in sync with ruff.toml and CI.
+repos:
+  - repo: local
+    hooks:
+      - id: ruff-check
+        name: Ruff lint
+        entry: ruff check --fix
+        language: python
+        additional_dependencies: [ruff==0.16.7]
+        types_or: [python, pyi]
+      - id: ruff-format
+        name: Ruff format
+        entry: ruff format
+        language: python
+        additional_dependencies: [ruff==0.16.7]
+        types_or: [python, pyi]

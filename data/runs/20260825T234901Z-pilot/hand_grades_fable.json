@@ -1,0 +1,258 @@
+{
+ "F1-2030-af6215|a|anthropic/claude-sonnet-5": [
+  false,
+  true,
+  true
+ ],
+ "F1-2030-af6215|a|google/gemini-3.1-pro-preview": [
+  false,
+  true,
+  false
+ ],
+ "F1-2030-af6215|a|openai/gpt-5.6-sol": [
+  false,
+  true,
+  false
+ ],
+ "F1-2030-af6215|a|stealth/ox-alpha": [
+  true,
+  true,
+  true
+ ],
+ "F1-2030-af6215|b|anthropic/claude-sonnet-5": [
+  false,
+  false,
+  false
+ ],
+ "F1-2030-af6215|b|google/gemini-3.1-pro-preview": [
+  false,
+  false,
+  false
+ ],
+ "F1-2030-af6215|b|openai/gpt-5.6-sol": [
+  false,
+  false,
+  false
+ ],
+ "F1-2030-af6215|b|stealth/ox-alpha": [
+  false,
+  false,
+  false
+ ],
+ "F1-3595-d836b6|a|anthropic/claude-sonnet-5": [
+  false,
+  true,
+  true
+ ],
+ "F1-3595-d836b6|a|google/gemini-3.1-pro-preview": [
+  false,
+  true,
+  false
+ ],
+ "F1-3595-d836b6|a|openai/gpt-5.6-sol": [
+  false,
+  true,
+  true
+ ],
+ "F1-3595-d836b6|a|stealth/ox-alpha": [
+  true,
+  true,
+  true
+ ],
+ "F1-3595-d836b6|b|anthropic/claude-sonnet-5": [
+  false,
+  false,
+  false
+ ],
+ "F1-3595-d836b6|b|google/gemini-3.1-pro-preview": [
+  false,
+  false,
+  false
+ ],
+ "F1-3595-d836b6|b|openai/gpt-5.6-sol": [
+  false,
+  false,
+  false
+ ],
+ "F1-3595-d836b6|b|stealth/ox-alpha": [
+  false,
+  false,
+  false
+ ],
+ "F2-1919|a|anthropic/claude-sonnet-5": [
+  false,
+  false
+ ],
+ "F2-1919|a|google/gemini-3.1-pro-preview": [
+  true,
+  true
+ ],
+ "F2-1919|a|openai/gpt-5.6-sol": [
+  false,
+  false
+ ],
+ "F2-1919|a|stealth/ox-alpha": [
+  true,
+  true
+ ],
+ "F2-1919|b|anthropic/claude-sonnet-5": [
+  false,
+  false
+ ],
+ "F2-1919|b|google/gemini-3.1-pro-preview": [
+  false,
+  false
+ ],
+ "F2-1919|b|openai/gpt-5.6-sol": [
+  false,
+  false
+ ],
+ "F2-1919|b|stealth/ox-alpha": [
+  false,
+  false
+ ],
+ "F2-1920|a|anthropic/claude-sonnet-5": [
+  true,
+  true
+ ],
+ "F2-1920|a|google/gemini-3.1-pro-preview": [
+  true,
+  true
+ ],
+ "F2-1920|a|openai/gpt-5.6-sol": [
+  false,
+  false
+ ],
+ "F2-1920|a|stealth/ox-alpha": [
+  true,
+  true
+ ],
+ "F2-1920|b|anthropic/claude-sonnet-5": [
+  false,
+  false
+ ],
+ "F2-1920|b|google/gemini-3.1-pro-preview": [
+  false,
+  false
+ ],
+ "F2-1920|b|openai/gpt-5.6-sol": [
+  false,
+  false
+ ],
+ "F2-1920|b|stealth/ox-alpha": [
+  false,
+  false
+ ],
+ "F3-1068|a|anthropic/claude-sonnet-5": [
+  true
+ ],
+ "F3-1068|a|google/gemini-3.1-pro-preview": [
+  true
+ ],
+ "F3-1068|a|openai/gpt-5.6-sol": [
+  true
+ ],
+ "F3-1068|a|stealth/ox-alpha": [
+  true
+ ],
+ "F3-1068|b|anthropic/claude-sonnet-5": [
+  false
+ ],
+ "F3-1068|b|google/gemini-3.1-pro-preview": [
+  false
+ ],
+ "F3-1068|b|openai/gpt-5.6-sol": [
+  false
+ ],
+ "F3-1068|b|stealth/ox-alpha": [
+  false
+ ],
+ "F3-1069|a|anthropic/claude-sonnet-5": [
+  true
+ ],
+ "F3-1069|a|google/gemini-3.1-pro-preview": [
+  true
+ ],
+ "F3-1069|a|openai/gpt-5.6-sol": [
+  true
+ ],
+ "F3-1069|a|stealth/ox-alpha": [
+  true
+ ],
+ "F3-1069|b|anthropic/claude-sonnet-5": [
+  false
+ ],
+ "F3-1069|b|google/gemini-3.1-pro-preview": [
+  false
+ ],
+ "F3-1069|b|openai/gpt-5.6-sol": [
+  false
+ ],
+ "F3-1069|b|stealth/ox-alpha": [
+  false
+ ],
+ "F4-1064|a|anthropic/claude-sonnet-5": [
+  false,
+  true
+ ],
+ "F4-1064|a|google/gemini-3.1-pro-preview": [
+  true,
+  true
+ ],
+ "F4-1064|a|openai/gpt-5.6-sol": [
+  false,
+  true
+ ],
+ "F4-1064|a|stealth/ox-alpha": [
+  false,
+  true
+ ],
+ "F4-1064|b|anthropic/claude-sonnet-5": [
+  true,
+  false
+ ],
+ "F4-1064|b|google/gemini-3.1-pro-preview": [
+  true,
+  true
+ ],
+ "F4-1064|b|openai/gpt-5.6-sol": [
+  true,
+  false
+ ],
+ "F4-1064|b|stealth/ox-alpha": [
+  false,
+  true
+ ],
+ "F4-1065|a|anthropic/claude-sonnet-5": [
+  true,
+  false
+ ],
+ "F4-1065|a|google/gemini-3.1-pro-preview": [
+  true,
+  false
+ ],
+ "F4-1065|a|openai/gpt-5.6-sol": [
+  true,
+  false
+ ],
+ "F4-1065|a|stealth/ox-alpha": [
+  false,
+  true
+ ],
+ "F4-1065|b|anthropic/claude-sonnet-5": [
+  true,
+  false
+ ],
+ "F4-1065|b|google/gemini-3.1-pro-preview": [
+  false,
+  true
+ ],
+ "F4-1065|b|openai/gpt-5.6-sol": [
+  true,
+  false
+ ],
+ "F4-1065|b|stealth/ox-alpha": [
+  false,
+  true
+ ]
+}

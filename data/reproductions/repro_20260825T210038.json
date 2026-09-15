@@ -1,0 +1,524 @@
+{
+  "run_utc": "2026-08-25T21:00:38+00:00",
+  "database": "<local-path>/archive.db",
+  "source_commit": "8364f2281ab31c9f13a0486a0395221da80fab53",
+  "source_dirty": "M infra/aws-beta/.terraform.lock.hcl\n?? .claude/\n?? AGENTS.md\n?? infra/monitoring/\n?? tmp/",
+  "scan_cap": 1000000,
+  "totals": {
+    "documents": 17807,
+    "document_content_rows": 17807,
+    "scans": 113240
+  },
+  "r2_capped_transcripts": {
+    "count": 14,
+    "documents": [
+      {
+        "document_id": 2030,
+        "original_transcript_chars": 1031201,
+        "english_transcript_chars": 811642
+      },
+      {
+        "document_id": 3061,
+        "original_transcript_chars": 1846384,
+        "english_transcript_chars": 10123
+      },
+      {
+        "document_id": 3104,
+        "original_transcript_chars": 1610696,
+        "english_transcript_chars": 28009
+      },
+      {
+        "document_id": 3109,
+        "original_transcript_chars": 1159538,
+        "english_transcript_chars": 11900
+      },
+      {
+        "document_id": 3187,
+        "original_transcript_chars": 1045737,
+        "english_transcript_chars": 4694
+      },
+      {
+        "document_id": 3209,
+        "original_transcript_chars": 1198958,
+        "english_transcript_chars": 1858
+      },
+      {
+        "document_id": 3595,
+        "original_transcript_chars": 1261167,
+        "english_transcript_chars": 915244
+      },
+      {
+        "document_id": 3805,
+        "original_transcript_chars": 1964054,
+        "english_transcript_chars": 2508
+      },
+      {
+        "document_id": 3813,
+        "original_transcript_chars": 1179749,
+        "english_transcript_chars": 1149940
+      },
+      {
+        "document_id": 3963,
+        "original_transcript_chars": 1276480,
+        "english_transcript_chars": 11478
+      },
+      {
+        "document_id": 7323,
+        "original_transcript_chars": 1087671,
+        "english_transcript_chars": 785226
+      },
+      {
+        "document_id": 10518,
+        "original_transcript_chars": 1013817,
+        "english_transcript_chars": 1060047
+      },
+      {
+        "document_id": 10522,
+        "original_transcript_chars": 1100462,
+        "english_transcript_chars": 876059
+      },
+      {
+        "document_id": 18866,
+        "original_transcript_chars": 488024,
+        "english_transcript_chars": 1131394
+      }
+    ]
+  },
+  "r3_canaries": [
+    {
+      "document_id": 2030,
+      "field": "original_transcript",
+      "term": "Zmierzyłem",
+      "sqlite_instr_position": 1000072,
+      "exact_match_in_first_cap": false
+    },
+    {
+      "document_id": 18866,
+      "field": "english_transcript",
+      "term": "biologicznym",
+      "sqlite_instr_position": 1000191,
+      "exact_match_in_first_cap": false
+    }
+  ],
+  "r4_date_aggregates": {
+    "documents_matching_1920": 4772,
+    "years_with_more_than_20_matches": 90,
+    "years_over_20": {
+      "1863": 59,
+      "1867": 54,
+      "1886": 24,
+      "1892": 28,
+      "1895": 32,
+      "1896": 26,
+      "1897": 35,
+      "1898": 30,
+      "1899": 60,
+      "1900": 38,
+      "1901": 50,
+      "1902": 71,
+      "1903": 51,
+      "1904": 118,
+      "1905": 62,
+      "1906": 23,
+      "1907": 32,
+      "1908": 40,
+      "1909": 36,
+      "1910": 39,
+      "1912": 70,
+      "1913": 52,
+      "1914": 291,
+      "1915": 176,
+      "1916": 151,
+      "1917": 186,
+      "1918": 546,
+      "1919": 2470,
+      "1920": 4772,
+      "1921": 1943,
+      "1922": 553,
+      "1923": 111,
+      "1924": 85,
+      "1925": 157,
+      "1926": 505,
+      "1927": 169,
+      "1928": 166,
+      "1929": 290,
+      "1930": 167,
+      "1931": 193,
+      "1932": 123,
+      "1933": 107,
+      "1934": 119,
+      "1935": 397,
+      "1936": 131,
+      "1937": 148,
+      "1938": 141,
+      "1939": 342,
+      "1940": 157,
+      "1941": 186,
+      "1942": 275,
+      "1943": 529,
+      "1944": 1078,
+      "1945": 575,
+      "1946": 79,
+      "1947": 51,
+      "1948": 36,
+      "1949": 78,
+      "1950": 105,
+      "1951": 68,
+      "1952": 46,
+      "1953": 114,
+      "1954": 88,
+      "1955": 79,
+      "1956": 150,
+      "1957": 98,
+      "1958": 103,
+      "1959": 68,
+      "1960": 91,
+      "1961": 79,
+      "1962": 114,
+      "1963": 101,
+      "1964": 59,
+      "1965": 50,
+      "1967": 51,
+      "1968": 25,
+      "1969": 35,
+      "1970": 37,
+      "1972": 33,
+      "1974": 28,
+      "1975": 31,
+      "1976": 29,
+      "1977": 21,
+      "1980": 22,
+      "1981": 37,
+      "1984": 28,
+      "1985": 85,
+      "1986": 23,
+      "1987": 39,
+      "1988": 22
+    },
+    "tool_page_limit": 20
+  },
+  "r5_id_substitution": {
+    "total_documents": 17807,
+    "doc_id_is_not_a_scan_id": 0,
+    "doc_id_is_scan_of_same_item": 2,
+    "doc_id_is_scan_of_different_item": 17805,
+    "same_item_document_ids": [
+      1593,
+      1596
+    ],
+    "not_a_scan_document_ids": []
+  },
+  "r6_false_absence_examples": {
+    "documents_with_at_least_one_term": 7,
+    "per_document": [
+      {
+        "document_id": 2030,
+        "false_absence_terms": [
+          {
+            "term": "Zmierzyłem",
+            "field": "original_transcript",
+            "offset_0based": 1000071,
+            "sqlite_instr_position": 1000072,
+            "context": "ednakże pojechałem aż do Święcianek,\nby dłużej z Zosią być. Zmierzyłem się przed Zosią o swoim kłopocie.\nOna mi radziła jechać do "
+          },
+          {
+            "term": "odczekałem",
+            "field": "original_transcript",
+            "offset_0based": 1000405,
+            "sqlite_instr_position": 1000406,
+            "context": "e myślałem o Petersburgu, ale lękam się gada-\nnin i dlatego odczekałem ja na ostatni plan. Zosia zrozumiała o jakich\ngadaninach ja"
+          },
+          {
+            "term": "gadaninach",
+            "field": "original_transcript",
+            "offset_0based": 1000462,
+            "sqlite_instr_position": 1000463,
+            "context": "go odczekałem ja na ostatni plan. Zosia zrozumiała o jakich\ngadaninach ja mówię. Zamyśliła się i powiedziała coś tak cicho, że\nnic"
+          },
+          {
+            "term": "Zamyśliła",
+            "field": "original_transcript",
+            "offset_0based": 1000483,
+            "sqlite_instr_position": 1000484,
+            "context": "statni plan. Zosia zrozumiała o jakich\ngadaninach ja mówię. Zamyśliła się i powiedziała coś tak cicho, że\nnic nie usłyszałem. Zos"
+          },
+          {
+            "term": "zreformowała",
+            "field": "original_transcript",
+            "offset_0based": 1000568,
+            "sqlite_instr_position": 1000569,
+            "context": "ła coś tak cicho, że\nnic nie usłyszałem. Zosia już zupełnie zreformowała się; pretensji\nżadnych niema. Mówiła mi, że już postarzała,"
+          }
+        ]
+      },
+      {
+        "document_id": 3061,
+        "false_absence_terms": []
+      },
+      {
+        "document_id": 3104,
+        "false_absence_terms": []
+      },
+      {
+        "document_id": 3109,
+        "false_absence_terms": []
+      },
+      {
+        "document_id": 3187,
+        "false_absence_terms": []
+      },
+      {
+        "document_id": 3209,
+        "false_absence_terms": []
+      },
+      {
+        "document_id": 3595,
+        "false_absence_terms": [
+          {
+            "term": "pokazano",
+            "field": "original_transcript",
+            "offset_0based": 1048005,
+            "sqlite_instr_position": 1048006,
+            "context": "WYDARZEŃ\n\nW Polsce\n*   W\n\nskowej – w której po raz pierwszy pokazano na wielką skalę wyniki postępującej modernizacji armii czer"
+          },
+          {
+            "term": "postępującej",
+            "field": "original_transcript",
+            "offset_0based": 1048037,
+            "sqlite_instr_position": 1048038,
+            "context": " – w której po raz pierwszy pokazano na wielką skalę wyniki postępującej modernizacji armii czerwonej – w pewnym momencie wpłynęły z"
+          },
+          {
+            "term": "modernizacji",
+            "field": "original_transcript",
+            "offset_0based": 1048050,
+            "sqlite_instr_position": 1048051,
+            "context": "o raz pierwszy pokazano na wielką skalę wyniki postępującej modernizacji armii czerwonej – w pewnym momencie wpłynęły z szeregu ulic"
+          },
+          {
+            "term": "wpłynęły",
+            "field": "original_transcript",
+            "offset_0based": 1048099,
+            "sqlite_instr_position": 1048100,
+            "context": "stępującej modernizacji armii czerwonej – w pewnym momencie wpłynęły z szeregu ulic potoki ciężkich czołgów, które zalały cały o"
+          },
+          {
+            "term": "czołgów",
+            "field": "original_transcript",
+            "offset_0based": 1048139,
+            "sqlite_instr_position": 1048140,
+            "context": "– w pewnym momencie wpłynęły z szeregu ulic potoki ciężkich czołgów, które zalały cały olbrzymi plac, jednocześnie zaś nadciągn"
+          }
+        ]
+      },
+      {
+        "document_id": 3805,
+        "false_absence_terms": []
+      },
+      {
+        "document_id": 3813,
+        "false_absence_terms": [
+          {
+            "term": "WIEDZMINIERZ",
+            "field": "original_transcript",
+            "offset_0based": 1164713,
+            "sqlite_instr_position": 1164714,
+            "context": "le - Left Column)\n\n**NOWY DZIENNIK**\n**PRZEGLĄD POLSKI**\n\n**WIEDZMINIERZ SULEJA**\n\n**11 listopada – Święto Niepodległości**\n\n## POWR"
+          },
+          {
+            "term": "półtorarocznej",
+            "field": "original_transcript",
+            "offset_0based": 1165145,
+            "sqlite_instr_position": 1165146,
+            "context": "wrót Piłsudskiego do kraju 10 listopada 1918 roku po blisko półtorarocznej niewoli w Magdeburgu wywołał powszechny entuzjazm. „Gdy w p"
+          },
+          {
+            "term": "krótkiej",
+            "field": "original_transcript",
+            "offset_0based": 1165440,
+            "sqlite_instr_position": 1165441,
+            "context": "ław Lubomirski i pułkownik Adam Koc. Piłsudski wysiadł i po krótkiej rozmowie odjechał z Regentem w jego samochodzie do Pałacu R"
+          },
+          {
+            "term": "Regentem",
+            "field": "original_transcript",
+            "offset_0based": 1165469,
+            "sqlite_instr_position": 1165470,
+            "context": "am Koc. Piłsudski wysiadł i po krótkiej rozmowie odjechał z Regentem w jego samochodzie do Pałacu Radziwiłłowskiego. Po drodze w"
+          },
+          {
+            "term": "samochodzie",
+            "field": "original_transcript",
+            "offset_0based": 1165485,
+            "sqlite_instr_position": 1165486,
+            "context": "i wysiadł i po krótkiej rozmowie odjechał z Regentem w jego samochodzie do Pałacu Radziwiłłowskiego. Po drodze wzdłuż toru i na uli"
+          }
+        ]
+      },
+      {
+        "document_id": 3963,
+        "false_absence_terms": []
+      },
+      {
+        "document_id": 7323,
+        "false_absence_terms": [
+          {
+            "term": "działaczów",
+            "field": "original_transcript",
+            "offset_0based": 1000129,
+            "sqlite_instr_position": 1000130,
+            "context": "c\nnomyślność naruszają tylko głosy poszczególnych wybitnych działaczów spoce\nnych jak pos. Ccheidze M.Gorkij, S.Czernow. W.Iljin w"
+          },
+          {
+            "term": "Ccheidze",
+            "field": "original_transcript",
+            "offset_0based": 1000160,
+            "sqlite_instr_position": 1000161,
+            "context": "osy poszczególnych wybitnych działaczów spoce\nnych jak pos. Ccheidze M.Gorkij, S.Czernow. W.Iljin w których jedno stoją n\nstanow"
+          },
+          {
+            "term": "Gorkij",
+            "field": "original_transcript",
+            "offset_0based": 1000171,
+            "sqlite_instr_position": 1000172,
+            "context": "gólnych wybitnych działaczów spoce\nnych jak pos. Ccheidze M.Gorkij, S.Czernow. W.Iljin w których jedno stoją n\nstanowisku praw"
+          },
+          {
+            "term": "Czernow",
+            "field": "original_transcript",
+            "offset_0based": 1000181,
+            "sqlite_instr_position": 1000182,
+            "context": "bitnych działaczów spoce\nnych jak pos. Ccheidze M.Gorkij, S.Czernow. W.Iljin w których jedno stoją n\nstanowisku prawa narodów d"
+          },
+          {
+            "term": "samookreślenia",
+            "field": "original_transcript",
+            "offset_0based": 1000250,
+            "sqlite_instr_position": 1000251,
+            "context": "W.Iljin w których jedno stoją n\nstanowisku prawa narodów do samookreślenia a inni, jak W.Iljin idą dalej, do\ncząc,że względem Polski p"
+          }
+        ]
+      },
+      {
+        "document_id": 10518,
+        "false_absence_terms": [
+          {
+            "term": "antypolska",
+            "field": "original_transcript",
+            "offset_0based": 1000011,
+            "sqlite_instr_position": 1000012,
+            "context": "e jest w istocie swej ani prokomunistyczna ani tym bardziej antypolska (?)\n\n3). Dnia 17-go bm. odbędzie się w gmachu francuskiego "
+          },
+          {
+            "term": "stosunkami",
+            "field": "original_transcript",
+            "offset_0based": 1000251,
+            "sqlite_instr_position": 1000252,
+            "context": "h posła Jean Paul Palewskiego zebranie Komitetu Studiów nad stosunkami polsko-francuskimi. Na porządku dziennym znajduje się plan "
+          },
+          {
+            "term": "zwołującego",
+            "field": "original_transcript",
+            "offset_0based": 1000359,
+            "sqlite_instr_position": 1000360,
+            "context": "nym znajduje się plan prac Komitetu. Niestety zarówno osoba zwołującego zebranie jak i dokonany przezeń dość przypadkowy dobór licz"
+          },
+          {
+            "term": "przypadkowy",
+            "field": "original_transcript",
+            "offset_0based": 1000408,
+            "sqlite_instr_position": 1000409,
+            "context": "ówno osoba zwołującego zebranie jak i dokonany przezeń dość przypadkowy dobór licznie zaproszonych przedstawicieli emigracji polski"
+          },
+          {
+            "term": "Słowiańskiego",
+            "field": "original_transcript",
+            "offset_0based": 1000799,
+            "sqlite_instr_position": 1000800,
+            "context": " nowego cyklu wykładów poświęconych Polsce w ramach Studium Słowiańskiego. Na wykład inauguracyjny prof. Henri de Montfort poświęcony"
+          }
+        ]
+      },
+      {
+        "document_id": 10522,
+        "false_absence_terms": [
+          {
+            "term": "przewodnictwem",
+            "field": "original_transcript",
+            "offset_0based": 1011622,
+            "sqlite_instr_position": 1011623,
+            "context": "yż - W dniach 17 i 18 listopada br. odbyła się w Paryżu pod przewodnictwem gen. Władysława Andersa doroczna konferencja wojskowych prz"
+          },
+          {
+            "term": "utraciły",
+            "field": "original_transcript",
+            "offset_0based": 1011783,
+            "sqlite_instr_position": 1011784,
+            "context": "Środkowo-Wschodniej, które w wyniku drugiej wojny światowej utraciły niepodległość i znajdują się pod jarzmem sowieckim.\nW czasi"
+          },
+          {
+            "term": "jednomyślnie",
+            "field": "original_transcript",
+            "offset_0based": 1011932,
+            "sqlite_instr_position": 1011933,
+            "context": "alną sytuację w poszczególnych krajach za żelazną kurtyną i jednomyślnie stwierdzono ponownie, że konieczne jest odtworzenie na Zach"
+          },
+          {
+            "term": "POLIKARPA",
+            "field": "original_transcript",
+            "offset_0based": 1012141,
+            "sqlite_instr_position": 1012142,
+            "context": " sztandarami.\n\n---o0o---\n\n**ŚMIERĆ METROPOLITY UKRAIŃSKIEGO POLIKARPA**\n\n/PAT/ Paryż - W Paryżu odbył się pogrzeb Metropolity Pol"
+          },
+          {
+            "term": "Łuckiego",
+            "field": "original_transcript",
+            "offset_0based": 1012244,
+            "sqlite_instr_position": 1012245,
+            "context": "ię pogrzeb Metropolity Polikarpa /Sikorskiego/, Arcybiskupa Łuckiego i Kowelskiego, głowy Ukraińskiej Autokefalicznej Cerkwi Pra"
+          }
+        ]
+      },
+      {
+        "document_id": 18866,
+        "false_absence_terms": [
+          {
+            "term": "odróżnienie",
+            "field": "english_transcript",
+            "offset_0based": 1000075,
+            "sqlite_instr_position": 1000076,
+            "context": "ejsze jego postanowienia.\n\nWe wstępie program czyni wyraźne odróżnienie między pojęciem \"narodu\" i \"nacji\". Naród to w etnicznym zn"
+          },
+          {
+            "term": "pojęciem",
+            "field": "english_transcript",
+            "offset_0based": 1000094,
+            "sqlite_instr_position": 1000095,
+            "context": "ienia.\n\nWe wstępie program czyni wyraźne odróżnienie między pojęciem \"narodu\" i \"nacji\". Naród to w etnicznym znaczeniu tego sło"
+          },
+          {
+            "term": "etnicznym",
+            "field": "english_transcript",
+            "offset_0based": 1000134,
+            "sqlite_instr_position": 1000135,
+            "context": " odróżnienie między pojęciem \"narodu\" i \"nacji\". Naród to w etnicznym znaczeniu tego słowa \"zespół ludzi o wspólnym biologicznym "
+          },
+          {
+            "term": "biologicznym",
+            "field": "english_transcript",
+            "offset_0based": 1000190,
+            "sqlite_instr_position": 1000191,
+            "context": "o w etnicznym znaczeniu tego słowa \"zespół ludzi o wspólnym biologicznym pochodzeniu, języku, bycie i kulturze\"; w wyniku rozwoju hi"
+          },
+          {
+            "term": "pochodzeniu",
+            "field": "english_transcript",
+            "offset_0based": 1000203,
+            "sqlite_instr_position": 1000204,
+            "context": " znaczeniu tego słowa \"zespół ludzi o wspólnym biologicznym pochodzeniu, języku, bycie i kulturze\"; w wyniku rozwoju historycznego "
+          }
+        ]
+      }
+    ]
+  }
+}

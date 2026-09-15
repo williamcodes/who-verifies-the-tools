@@ -1,0 +1,36 @@
+name: Offline verification
+on: [push, pull_request, workflow_dispatch]
+permissions:
+  contents: read
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install Ruff
+        run: python -m pip install ruff==0.16.7
+      - name: Lint all Python files
+        run: python -m ruff check . --output-format=github
+      - name: Check Python formatting
+        run: python -m ruff format --check .
+
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    strategy:
+      fail-fast: false
+      matrix:
+        python: ['3.12', '3.14']
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python }}
+      - name: Verify without third-party packages or credentials
+        run: python -S -B -m experiment verify
+      - name: Ensure verification preserved tracked files
+        run: git diff --exit-code

@@ -1,0 +1,583 @@
+{
+  "manifest_built": "2026-08-25T21:36:13+00:00",
+  "renderings_checked": 80,
+  "condition_a_flagged": "40/40",
+  "condition_b_flagged": "0/40",
+  "results": [
+    {
+      "case_id": "F1-2030-af6215",
+      "family": "F1",
+      "cond": "a",
+      "violations": [
+        "scope: search was capped but the output does not disclose the cap",
+        "scope: search was capped but the output claims the FULL text was searched"
+      ]
+    },
+    {
+      "case_id": "F1-2030-af6215",
+      "family": "F1",
+      "cond": "b",
+      "violations": []
+    },
+    {
+      "case_id": "F1-3595-d836b6",
+      "family": "F1",
+      "cond": "a",
+      "violations": [
+        "scope: search was capped but the output does not disclose the cap",
+        "scope: search was capped but the output claims the FULL text was searched"
+      ]
+    },
+    {
+      "case_id": "F1-3595-d836b6",
+      "family": "F1",
+      "cond": "b",
+      "violations": []
+    },
+    {
+      "case_id": "F1-3813-51d974",
+      "family": "F1",
+      "cond": "a",
+      "violations": [
+        "scope: search was capped but the output does not disclose the cap",
+        "scope: search was capped but the output claims the FULL text was searched"
+      ]
+    },
+    {
+      "case_id": "F1-3813-51d974",
+      "family": "F1",
+      "cond": "b",
+      "violations": []
+    },
+    {
+      "case_id": "F1-7323-213e14",
+      "family": "F1",
+      "cond": "a",
+      "violations": [
+        "scope: search was capped but the output does not disclose the cap",
+        "scope: search was capped but the output claims the FULL text was searched"
+      ]
+    },
+    {
+      "case_id": "F1-7323-213e14",
+      "family": "F1",
+      "cond": "b",
+      "violations": []
+    },
+    {
+      "case_id": "F1-10518-09fdb3",
+      "family": "F1",
+      "cond": "a",
+      "violations": [
+        "scope: search was capped but the output does not disclose the cap",
+        "scope: search was capped but the output claims the FULL text was searched"
+      ]
+    },
+    {
+      "case_id": "F1-10518-09fdb3",
+      "family": "F1",
+      "cond": "b",
+      "violations": []
+    },
+    {
+      "case_id": "F1-10522-11bccc",
+      "family": "F1",
+      "cond": "a",
+      "violations": [
+        "scope: search was capped but the output does not disclose the cap",
+        "scope: search was capped but the output claims the FULL text was searched"
+      ]
+    },
+    {
+      "case_id": "F1-10522-11bccc",
+      "family": "F1",
+      "cond": "b",
+      "violations": []
+    },
+    {
+      "case_id": "F1-18866-6e4188",
+      "family": "F1",
+      "cond": "a",
+      "violations": [
+        "scope: search was capped but the output does not disclose the cap",
+        "scope: search was capped but the output claims the FULL text was searched"
+      ]
+    },
+    {
+      "case_id": "F1-18866-6e4188",
+      "family": "F1",
+      "cond": "b",
+      "violations": []
+    },
+    {
+      "case_id": "F1-3595-9515e3",
+      "family": "F1",
+      "cond": "a",
+      "violations": [
+        "scope: search was capped but the output does not disclose the cap",
+        "scope: search was capped but the output claims the FULL text was searched"
+      ]
+    },
+    {
+      "case_id": "F1-3595-9515e3",
+      "family": "F1",
+      "cond": "b",
+      "violations": []
+    },
+    {
+      "case_id": "F1-3813-eed5d2",
+      "family": "F1",
+      "cond": "a",
+      "violations": [
+        "scope: search was capped but the output does not disclose the cap",
+        "scope: search was capped but the output claims the FULL text was searched"
+      ]
+    },
+    {
+      "case_id": "F1-3813-eed5d2",
+      "family": "F1",
+      "cond": "b",
+      "violations": []
+    },
+    {
+      "case_id": "F1-18866-a1eb93",
+      "family": "F1",
+      "cond": "a",
+      "violations": [
+        "scope: search was capped but the output does not disclose the cap",
+        "scope: search was capped but the output claims the FULL text was searched"
+      ]
+    },
+    {
+      "case_id": "F1-18866-a1eb93",
+      "family": "F1",
+      "cond": "b",
+      "violations": []
+    },
+    {
+      "case_id": "F2-1920",
+      "family": "F2",
+      "cond": "a",
+      "violations": [
+        "completeness: 4772 documents match but the header presents the 20-result page with no total and no cap disclosure"
+      ]
+    },
+    {
+      "case_id": "F2-1920",
+      "family": "F2",
+      "cond": "b",
+      "violations": []
+    },
+    {
+      "case_id": "F2-1919",
+      "family": "F2",
+      "cond": "a",
+      "violations": [
+        "completeness: 2470 documents match but the header presents the 20-result page with no total and no cap disclosure"
+      ]
+    },
+    {
+      "case_id": "F2-1919",
+      "family": "F2",
+      "cond": "b",
+      "violations": []
+    },
+    {
+      "case_id": "F2-1921",
+      "family": "F2",
+      "cond": "a",
+      "violations": [
+        "completeness: 1943 documents match but the header presents the 20-result page with no total and no cap disclosure"
+      ]
+    },
+    {
+      "case_id": "F2-1921",
+      "family": "F2",
+      "cond": "b",
+      "violations": []
+    },
+    {
+      "case_id": "F2-1944",
+      "family": "F2",
+      "cond": "a",
+      "violations": [
+        "completeness: 1078 documents match but the header presents the 20-result page with no total and no cap disclosure"
+      ]
+    },
+    {
+      "case_id": "F2-1944",
+      "family": "F2",
+      "cond": "b",
+      "violations": []
+    },
+    {
+      "case_id": "F2-1945",
+      "family": "F2",
+      "cond": "a",
+      "violations": [
+        "completeness: 575 documents match but the header presents the 20-result page with no total and no cap disclosure"
+      ]
+    },
+    {
+      "case_id": "F2-1945",
+      "family": "F2",
+      "cond": "b",
+      "violations": []
+    },
+    {
+      "case_id": "F2-1863",
+      "family": "F2",
+      "cond": "a",
+      "violations": [
+        "completeness: 59 documents match but the header presents the 20-result page with no total and no cap disclosure"
+      ]
+    },
+    {
+      "case_id": "F2-1863",
+      "family": "F2",
+      "cond": "b",
+      "violations": []
+    },
+    {
+      "case_id": "F2-1909",
+      "family": "F2",
+      "cond": "a",
+      "violations": [
+        "completeness: 36 documents match but the header presents the 20-result page with no total and no cap disclosure"
+      ]
+    },
+    {
+      "case_id": "F2-1909",
+      "family": "F2",
+      "cond": "b",
+      "violations": []
+    },
+    {
+      "case_id": "F2-1931",
+      "family": "F2",
+      "cond": "a",
+      "violations": [
+        "completeness: 193 documents match but the header presents the 20-result page with no total and no cap disclosure"
+      ]
+    },
+    {
+      "case_id": "F2-1931",
+      "family": "F2",
+      "cond": "b",
+      "violations": []
+    },
+    {
+      "case_id": "F2-1951",
+      "family": "F2",
+      "cond": "a",
+      "violations": [
+        "completeness: 68 documents match but the header presents the 20-result page with no total and no cap disclosure"
+      ]
+    },
+    {
+      "case_id": "F2-1951",
+      "family": "F2",
+      "cond": "b",
+      "violations": []
+    },
+    {
+      "case_id": "F2-1970",
+      "family": "F2",
+      "cond": "a",
+      "violations": [
+        "completeness: 37 documents match but the header presents the 20-result page with no total and no cap disclosure"
+      ]
+    },
+    {
+      "case_id": "F2-1970",
+      "family": "F2",
+      "cond": "b",
+      "violations": []
+    },
+    {
+      "case_id": "F3-1068",
+      "family": "F3",
+      "cond": "a",
+      "violations": [
+        "uncertainty: 'page 8 of 14' is a proportional estimate presented without an estimate label"
+      ]
+    },
+    {
+      "case_id": "F3-1068",
+      "family": "F3",
+      "cond": "b",
+      "violations": []
+    },
+    {
+      "case_id": "F3-1069",
+      "family": "F3",
+      "cond": "a",
+      "violations": [
+        "uncertainty: 'page 10 of 18' is a proportional estimate presented without an estimate label"
+      ]
+    },
+    {
+      "case_id": "F3-1069",
+      "family": "F3",
+      "cond": "b",
+      "violations": []
+    },
+    {
+      "case_id": "F3-1070",
+      "family": "F3",
+      "cond": "a",
+      "violations": [
+        "uncertainty: 'page 8 of 15' is a proportional estimate presented without an estimate label",
+        "uncertainty: 'page 15 of 15' is a proportional estimate presented without an estimate label"
+      ]
+    },
+    {
+      "case_id": "F3-1070",
+      "family": "F3",
+      "cond": "b",
+      "violations": []
+    },
+    {
+      "case_id": "F3-1076",
+      "family": "F3",
+      "cond": "a",
+      "violations": [
+        "uncertainty: 'page 11 of 21' is a proportional estimate presented without an estimate label"
+      ]
+    },
+    {
+      "case_id": "F3-1076",
+      "family": "F3",
+      "cond": "b",
+      "violations": []
+    },
+    {
+      "case_id": "F3-1080",
+      "family": "F3",
+      "cond": "a",
+      "violations": [
+        "uncertainty: 'page 10 of 18' is a proportional estimate presented without an estimate label",
+        "uncertainty: 'page 10 of 18' is a proportional estimate presented without an estimate label"
+      ]
+    },
+    {
+      "case_id": "F3-1080",
+      "family": "F3",
+      "cond": "b",
+      "violations": []
+    },
+    {
+      "case_id": "F3-1092",
+      "family": "F3",
+      "cond": "a",
+      "violations": [
+        "uncertainty: 'page 16 of 30' is a proportional estimate presented without an estimate label"
+      ]
+    },
+    {
+      "case_id": "F3-1092",
+      "family": "F3",
+      "cond": "b",
+      "violations": []
+    },
+    {
+      "case_id": "F3-1123",
+      "family": "F3",
+      "cond": "a",
+      "violations": [
+        "uncertainty: 'page 26 of 51' is a proportional estimate presented without an estimate label"
+      ]
+    },
+    {
+      "case_id": "F3-1123",
+      "family": "F3",
+      "cond": "b",
+      "violations": []
+    },
+    {
+      "case_id": "F3-1354",
+      "family": "F3",
+      "cond": "a",
+      "violations": [
+        "uncertainty: 'page 4 of 4' is a proportional estimate presented without an estimate label",
+        "uncertainty: 'page 4 of 4' is a proportional estimate presented without an estimate label",
+        "uncertainty: 'page 4 of 4' is a proportional estimate presented without an estimate label",
+        "uncertainty: 'page 4 of 4' is a proportional estimate presented without an estimate label"
+      ]
+    },
+    {
+      "case_id": "F3-1354",
+      "family": "F3",
+      "cond": "b",
+      "violations": []
+    },
+    {
+      "case_id": "F3-1417",
+      "family": "F3",
+      "cond": "a",
+      "violations": [
+        "uncertainty: 'page 11 of 20' is a proportional estimate presented without an estimate label"
+      ]
+    },
+    {
+      "case_id": "F3-1417",
+      "family": "F3",
+      "cond": "b",
+      "violations": []
+    },
+    {
+      "case_id": "F3-1576",
+      "family": "F3",
+      "cond": "a",
+      "violations": [
+        "uncertainty: 'page 9 of 16' is a proportional estimate presented without an estimate label"
+      ]
+    },
+    {
+      "case_id": "F3-1576",
+      "family": "F3",
+      "cond": "b",
+      "violations": []
+    },
+    {
+      "case_id": "F4-1064",
+      "family": "F4",
+      "cond": "a",
+      "violations": [
+        "provenance: 1 bracketed identifier(s) without a namespace tag (e.g. [1064])"
+      ]
+    },
+    {
+      "case_id": "F4-1064",
+      "family": "F4",
+      "cond": "b",
+      "violations": []
+    },
+    {
+      "case_id": "F4-1065",
+      "family": "F4",
+      "cond": "a",
+      "violations": [
+        "provenance: 1 bracketed identifier(s) without a namespace tag (e.g. [1065])"
+      ]
+    },
+    {
+      "case_id": "F4-1065",
+      "family": "F4",
+      "cond": "b",
+      "violations": []
+    },
+    {
+      "case_id": "F4-1066",
+      "family": "F4",
+      "cond": "a",
+      "violations": [
+        "provenance: 1 bracketed identifier(s) without a namespace tag (e.g. [1066])"
+      ]
+    },
+    {
+      "case_id": "F4-1066",
+      "family": "F4",
+      "cond": "b",
+      "violations": []
+    },
+    {
+      "case_id": "F4-1067",
+      "family": "F4",
+      "cond": "a",
+      "violations": [
+        "provenance: 1 bracketed identifier(s) without a namespace tag (e.g. [1067])"
+      ]
+    },
+    {
+      "case_id": "F4-1067",
+      "family": "F4",
+      "cond": "b",
+      "violations": []
+    },
+    {
+      "case_id": "F4-1068",
+      "family": "F4",
+      "cond": "a",
+      "violations": [
+        "provenance: 1 bracketed identifier(s) without a namespace tag (e.g. [1068])"
+      ]
+    },
+    {
+      "case_id": "F4-1068",
+      "family": "F4",
+      "cond": "b",
+      "violations": []
+    },
+    {
+      "case_id": "F4-1069",
+      "family": "F4",
+      "cond": "a",
+      "violations": [
+        "provenance: 1 bracketed identifier(s) without a namespace tag (e.g. [1069])"
+      ]
+    },
+    {
+      "case_id": "F4-1069",
+      "family": "F4",
+      "cond": "b",
+      "violations": []
+    },
+    {
+      "case_id": "F4-1070",
+      "family": "F4",
+      "cond": "a",
+      "violations": [
+        "provenance: 1 bracketed identifier(s) without a namespace tag (e.g. [1070])"
+      ]
+    },
+    {
+      "case_id": "F4-1070",
+      "family": "F4",
+      "cond": "b",
+      "violations": []
+    },
+    {
+      "case_id": "F4-1071",
+      "family": "F4",
+      "cond": "a",
+      "violations": [
+        "provenance: 1 bracketed identifier(s) without a namespace tag (e.g. [1071])"
+      ]
+    },
+    {
+      "case_id": "F4-1071",
+      "family": "F4",
+      "cond": "b",
+      "violations": []
+    },
+    {
+      "case_id": "F4-1072",
+      "family": "F4",
+      "cond": "a",
+      "violations": [
+        "provenance: 1 bracketed identifier(s) without a namespace tag (e.g. [1072])"
+      ]
+    },
+    {
+      "case_id": "F4-1072",
+      "family": "F4",
+      "cond": "b",
+      "violations": []
+    },
+    {
+      "case_id": "F4-1073",
+      "family": "F4",
+      "cond": "a",
+      "violations": [
+        "provenance: 1 bracketed identifier(s) without a namespace tag (e.g. [1073])"
+      ]
+    },
+    {
+      "case_id": "F4-1073",
+      "family": "F4",
+      "cond": "b",
+      "violations": []
+    }
+  ]
+}

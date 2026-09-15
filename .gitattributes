@@ -1,0 +1,10 @@
+* text=auto eol=lf
+
+# Preserve scientific artifacts, paper sources, and historical reports byte-for-byte.
+research/experiment/cases/** -text -whitespace
+research/experiment/runs/** -text -whitespace
+research/experiment/human_grading/*.json* -text -whitespace
+research/audit-demo/** -text -whitespace
+research/experiment/defective_formatters.py -text -whitespace
+docs/paper/** -text -whitespace
+tests/fixtures/** -text -whitespace

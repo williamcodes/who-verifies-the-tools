@@ -1,0 +1,13 @@
+{
+  "population": "named three-model runs only (stealth excluded)",
+  "total_runs": 1200,
+  "dually_graded": 1199,
+  "agreement": 1147,
+  "agreement_pct": 95.7,
+  "disagreements": 52,
+  "single_graded": 1,
+  "excluded_runs": 0,
+  "note": "all 10 preregistered exclusions in the full run were stealth-model agent_api_error chains; see analysis.md status table",
+  "derived_from": "chains.jsonl, resolve logic mirroring analyze.py",
+  "computed_utc": "2026-08-30"
+}

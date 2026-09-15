@@ -1,0 +1,37 @@
+{
+  "run_id": "20260826T011616Z-pilot",
+  "mode": "pilot",
+  "manifest_built": "2026-08-25T21:36:13+00:00",
+  "settings": {
+    "manifest_sha256": "e340c2e3d9a991cad12300d29ff990591110b1740fae92a33c28fef208c64c9b",
+    "prompts_sha256": "bb93d9d2c190e826bbe083799716f154edd5bc1c34d36c2ffea6eda1ef050ce5",
+    "agents": [
+      "anthropic/claude-sonnet-5",
+      "openai/gpt-5.6-sol",
+      "google/gemini-3.1-pro-preview",
+      "stealth/ox-alpha"
+    ],
+    "judge": "anthropic/claude-sonnet-5",
+    "meta_judge": "openai/gpt-5.6-sol",
+    "full_replicates_default": 5,
+    "full_replicates": {
+      "stealth/ox-alpha": 2
+    },
+    "agent_temperature": 1.0,
+    "grader_temperature": 0.0,
+    "agent_max_tokens": 4000,
+    "grader_max_tokens": 4000,
+    "shuffle_seed": 20260826,
+    "code_commit": "ef9dba72f8aab697fcb85e577aa21dff098e8d6a"
+  },
+  "sessions": [
+    {
+      "started": "2026-08-26T01:16:16+00:00",
+      "planned": 64,
+      "already_done": 0,
+      "credits_before": 86.9196,
+      "finished": "2026-08-26T01:23:42+00:00",
+      "credits_after": 83.2914
+    }
+  ]
+}

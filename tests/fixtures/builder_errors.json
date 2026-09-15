@@ -1,0 +1,5 @@
+{
+  "short": "expected {'F1': 10, 'F2': 10, 'F3': 10, 'F4': 10} cases, built {'F1': 10, 'F2': 10, 'F3': 10, 'F4': 9}",
+  "duplicate": "duplicate case ids in manifest",
+  "identical": "identical: A and B are identical"
+}
